@@ -1,0 +1,13 @@
+// Run the following commands in CMD Prompt / Powershell.
+
+code --install-extensions bierner.markdown-preview-github-styles
+code --install-extensions eamodio.gitlens
+code --install-extensions formulahendry.code-runner
+code --install-extensions johnpapa.Angular2        
+code --install-extensions ms-python.python
+code --install-extensions ms-toolsai.jupyter       
+code --install-extensions ms-vscode.cpptools       
+code --install-extensions PKief.material-icon-theme
+code --install-extensions ritwickdey.LiveServer    
+code --install-extensions uloco.theme-bluloco-dark 
+code --install-extensions vscodevim.vim
